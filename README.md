@@ -4,6 +4,9 @@
 
   A simple React app that demonstrates state with previous and next buttons to change the step and corresponding message displayed.
 
+  ### Deployed URL
+  https://billstephens2022.github.io/Steps-React/
+
   ### App Screenshot
   ![app screenshot](/public/screenshot.png)
   
@@ -23,6 +26,8 @@
   ## Usage
   
   npm start
+
+  Deployed URL:  https://billstephens2022.github.io/Steps-React/
 
   ## License
 This application is covered under the MIT License.
